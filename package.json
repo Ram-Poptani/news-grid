@@ -1,0 +1,23 @@
+{
+  "name": "air-news-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "https://localhost:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanviGalani/Air-news-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanviGalani/Air-news-website/issues"
+  },
+  "homepage": "https://github.com/JanviGalani/Air-news-website#readme",
+  "description": "",
+  "devDependencies": {
+    "sw-precache-webpack-plugin": "^1.0.0"
+  }
+}
